@@ -98,7 +98,7 @@ function firstQuestion(){
                                             Swal.fire({
                                                 width: 900,
                                                 confirmButtonText: 'Okiiiii lun <3😜😜😜',
-                                                background: '#fff url("iput-bg.jpg") no-repeat center / cover',
+                                                background: '#fff url("iput-bg.jpg")',
                                                 'background-size': 'cover',
                                                 title: 'Em Xoài của anh 🥰😘😘',
                                                 html: `
